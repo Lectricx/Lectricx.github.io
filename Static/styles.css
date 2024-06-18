@@ -1,0 +1,14 @@
+.heightBetweenDivs {
+    height: 50px;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+pre {
+    font-size: 12pt;
+    font-family:'Times New Roman', Times, serif;
+    border: 1px solid black;
+}
